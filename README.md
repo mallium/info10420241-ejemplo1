@@ -3,8 +3,8 @@
 
 Un ejemplo de **Nextjs 13 APP** en donde se estructuran páginas y se utilizan algunas funciones, componentes o librerías como ChakraUI.
 ## ¿Cómo hago correr el ejemplo?
-Descargar zip o cloanar repositorio
-Entrar con VSCode en la carptea del proyecto (donde está el package.json)
+- Descargar zip o cloanar repositorio
+- Entrar con VSCode en la carptea del proyecto (donde está el package.json)
 Hacer
 ```cmd
 npm install
